@@ -2,6 +2,6 @@
     "name": "kukawala/laravel-backup",
     "description": "Take backup and restore files",
     "require": {
-        "php": "^7.2",        
+        "php": "^7.2"
     }
 }
