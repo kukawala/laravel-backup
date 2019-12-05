@@ -1,7 +1,23 @@
 {
     "name": "kukawala/laravel-backup",
     "description": "Take backup and restore files",
+    "keywords": ["framework", "laravel", "lumen","backup"],
+    "type": "project",
+    "homepage": "https://github.com/tymondesigns/jwt-auth",
     "require": {
         "php": "^7.2"
-    }
+    },
+    "authors": [
+        {
+            "name": "Jainik Kukawala",
+            "email": "jainik@webcodegenie.com",
+            "homepage": "https://webcodegenie.com/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {       	
+            "Kukawala\\LaravelBackup\\": ""
+        }
+    },
 }
